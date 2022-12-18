@@ -1,0 +1,23 @@
+#pc{
+    border-radius: 2px;
+    border: 1%;
+    border-color: rgb(0, 0, 0);
+    width: 9cm;
+    height: 6cm;
+}
+
+#text{background-color: rgb(10, 17, 74);
+    color: blanchedalmond;
+    margin: auto;  
+    width: 80%;   
+    border: 3px solid blue;  
+    padding : 3%;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+hr{
+    border: 15px solid rgb(32, 32, 111);  
+}
+.I{
+    margin-left: 9%;
+    margin-right: 4%;
+}
